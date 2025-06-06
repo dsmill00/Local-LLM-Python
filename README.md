@@ -1,6 +1,7 @@
 Building Llama Local LLM using 7b-instruct-v0.1.Q5_K_M.gguf
 
-Folder PATH listing for volume 
+Folder PATH listing for volume D. 
+
 D:.
 |   chat_memory.json
 |   last_prompt_debug.txt
